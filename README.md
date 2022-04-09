@@ -1,4 +1,4 @@
-![LibreSpeed Logo](https://github.com/ronibd0/speedtest/.logo/logo3.png?raw=true)
+![LibreSpeed Logo](.logo/logo3.png?raw=true)
 
 # GoSpeed
 
